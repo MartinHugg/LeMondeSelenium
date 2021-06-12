@@ -10,3 +10,5 @@ Make sure you have the right chromedriver.exe or geckdriver.exe in the "/Driver"
 You can fill the parameter files (otherwise you will be prompted to do it during the program launch), but DO NOT FILL the password field (you will be prompted to enter you email and lemonde password and it will kind of encoded in the txt file).
 
 Advice: Check the code, change the encoding key to your own personal key and compile the program yourself for added safety.
+
+You might wonder why there is so much random "sleeping" time in the code, first if you don't wait long enough you scrap the page before it is fully loaded, second it was also an attempt to make to bot less recognisable by its behaviour.
