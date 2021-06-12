@@ -1,6 +1,6 @@
 # LeMonde on e-book with Selenium
 
-A receipoe using Selenium and ebooklib to get LeMonde Abonné as a epub ebook.
+A recipe using Selenium and ebooklib to get LeMonde Abonné as a epub ebook.
 It then calls calibre for conversion to mobi and uses the email library to send the file to the kindle.
 
 For people with Windows, I compiled the program with pyinstaller already.
