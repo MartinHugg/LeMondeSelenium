@@ -1,0 +1,17 @@
+# Calibre installation folder:
+calibreFolder : C:/Program Files/Calibre2
+
+# Identifiant Le Monde
+email : 
+
+# Server email
+smtp : 
+port : 
+senderEmail : 
+recieverEmail : 
+
+# Mot de passe: laisser vide la premiere fois
+#   LE MONDE
+mdp : 
+#   SMTP
+mdpSMTP : 
